@@ -1,0 +1,14 @@
+{
+    "broccoliText" : "Broccoli",
+    "descriptionText" : "Description",
+    "descriptionAreaText" : "This is the description about Broccoli",
+    "relatedItemText" : "Related Items",
+    "lemonText" : "Lemon",
+    "meatText" : "Meat",
+    "pepperText" : "Pepper",
+    "potatoesText" : "Potatoes",
+    "tomatoesText" : "Tomatoes",
+    "addToCartText" : "Add To Cart",
+    "newPriceText" : "$ 12",
+    "oldPriceText" : "$ 16"
+}

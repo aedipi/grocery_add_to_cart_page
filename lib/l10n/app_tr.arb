@@ -1,0 +1,14 @@
+{
+    "broccoliText" : "Brokoli",
+    "descriptionText" : "Tanım",
+    "descriptionAreaText" : "Bu brokoli ile ilgili bir açıklamadır!",
+    "relatedItemText" : "İlişkin Ürünler",
+    "lemonText" : "Limon",
+    "meatText" : "Et",
+    "pepperText" : "Biber",
+    "potatoesText" : "Patates",
+    "tomatoesText" : "Domates",
+    "addToCartText" : "Sepete Ekle",
+    "newPriceText" : "216 ₺",
+    "oldPriceText" : "324 ₺"
+}
